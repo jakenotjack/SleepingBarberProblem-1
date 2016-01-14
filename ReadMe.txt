@@ -8,4 +8,4 @@ java -cp ./ multithreading.Multithreading num_of_Customer time_in_sec
 I am using:
 	hair cut time			: 5sec
 	cashout time 			: 2sec
-	customer creation gap 	: 1 sec [if I put 3 sec, no customer get drops] 
+	customer creation gap 		: 1 sec 
